@@ -1,0 +1,8 @@
+div {
+  height: 100px;
+  width: 100px;
+}
+
+.black-border {
+  border: '1px solid black'
+}
